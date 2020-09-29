@@ -1,0 +1,19 @@
+<!--plugins ทั้งหมด-->
+
+<!-- sweet alert 2 -->
+<script src="<?php echo e(asset('assets/member/plugins/sweetalert2/sweetalert2.all.min.js')); ?>"></script>
+
+<!-- price range -->
+<link rel="stylesheet" href="<?php echo e(asset('assets/member/plugins/price_range/jquery-ui.css')); ?>">
+<script src="<?php echo e(asset('assets/member/plugins/price_range/jquery-ui.js')); ?>"></script>
+
+
+<!-- rating -->
+<!-- <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+<link href="<?php echo e(asset('assets/member/plugins/jquery-bar-rating-master/dist/themes/fontawesome-stars.css')); ?>" rel='stylesheet' type='text/css'>
+<script src="<?php echo e(asset('assets/member/plugins/jquery-bar-rating-master/jquery-3.0.0.js')); ?>"></script>
+<script src="<?php echo e(asset('assets/member/plugins/jquery-bar-rating-master/dist/jquery.barrating.min.js')); ?>"></script> -->
+
+
+
+<?php /**PATH /home/admin/domains/intervision.in/public_html/ezlearn/resources/views/layouts/member/plugins.blade.php ENDPATH**/ ?>

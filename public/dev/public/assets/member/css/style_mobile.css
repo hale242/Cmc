@@ -1,0 +1,87 @@
+@media (max-width: 767px)
+{
+    .navbar-header {
+        padding: 5px 0;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #0072bc;
+        height: 3px;
+        margin-bottom: 5px;
+    }
+    .navbar-toggle {
+        background-color: #FFF;
+        border-radius: 0;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: #FFF;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        height: 3px;
+        margin-bottom: 5px;
+    }
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+        background-color: #FFF;
+    }
+    #mu-service {
+        margin-top: 0px;
+    }
+    #mu-menu .navbar-default {
+        height: auto !important;
+        padding-top: 0px;
+    }
+    #mu-slider {
+        margin-bottom: 30px;
+    }
+    #mu-service .mu-service-area .mu-service-single h5 {
+        font-size: 16px;
+    }
+    #mu-service .mu-service-area .mu-service-single img {
+        margin-top: 15px;
+    }
+    #mu-service .mu-service-area .mu-service-single:first-child{
+        height: auto;
+        border-radius: 5px 5px 0px 0px;
+        padding-top: 0px;
+    }
+    #mu-service .mu-service-area .mu-service-single:nth-child(2), #mu-service .mu-service-area .mu-service-single:nth-child(3) {
+        border-bottom: 1px solid #dfdfdf;
+    }
+    #mu-service .mu-service-area .mu-service-single:last-child{
+        border-radius: 0px 0px 5px 5px;
+    }
+    #mu-service .mu-service-area .mu-service-single .text-buy {
+        border-bottom: 2px solid #0072bc;
+    }
+    #mu-service .mu-service-area .mu-service-single span {
+        font-family: sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+        color: #0072bc;
+    }
+    #mu-service .mu-service-area .mu-service-single{
+        margin-top: 0px;
+        height: auto;
+    }
+    #mu-about-us {
+        padding: 0px;
+    }
+    .mu-title {
+       margin-bottom: 0px;
+    }
+    }
+
+    .text-course {
+        font-size: 14px;
+        padding-top: 0px;
+    }
+    .cart-count {
+        left:30px;
+    }
+    .cart_ico {
+        padding-left: 20px !important;
+    }
+
+
+
+}
+

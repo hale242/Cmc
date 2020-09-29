@@ -1,0 +1,17 @@
+[2020-05-21 16:56 Asia/Bangkok] -----------------------------------------------------------------------------------------------
+DataResult : Array
+(
+    [amount] => 0.1
+    [referenceNo] => 21052020165614
+    [gbpReferenceNo] => gbp223711920010
+    [currencyCode] => 764
+    [resultCode] => 00
+    [totalAmount] => 0.1
+    [thbAmount] => 0.1
+    [detail] => Course name : testcourse
+    [customerName] => Thirapol Klongsungnoen
+    [customerEmail] => pol.bearing@gmail.com
+    [merchantDefined1] => EZLEARN
+    [merchantDefined2] => customerMobileNo. 0999999999
+)
+
